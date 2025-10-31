@@ -11,7 +11,7 @@ The onboard light sensor and NeoPixels make the corset glow dynamically in a rai
 ![Converse Corset Digital Mockup](Images/ConverseCorset.gif)
 
 ### Final Prototype  
-![Converse Corset Prototype](Images/ConverseCorset.png)
+![Converse Corset Prototype](Images/ConverseCorset-Lightup.png)
 
 ---
 
