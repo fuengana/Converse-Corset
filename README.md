@@ -2,7 +2,7 @@
 
 This project transforms a Converse-inspired corset top into an interactive, light-reactive wearable using the **Adafruit Circuit Playground Express (CPX)**.  
 The onboard light sensor and NeoPixels make the corset glow dynamically in a rainbow sequence that responds to ambient light levels.  
-
+![Playground CPX Express](Images/Playground.gif)
 ---
 
 ## 🖼️ Design Overview  
